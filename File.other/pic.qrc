@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>myImage/P.jpg</file>
+        <file>myImage/Pi.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/phtotos">
+        <file>picture/P.gif</file>
+        <file>picture/pi.jpg</file>
+    </qresource>
+</RCC>
